@@ -2,7 +2,7 @@
 
 # Airo
 
-### Affordable, OpenAI-compatible AI access — without the surprises
+### Your all-in-one AI platform — models, tooling, and a coding app that just work
 
 [![Website](https://img.shields.io/badge/website-airospace.dev-06b6d4?style=flat-square)](https://airospace.dev)
 [![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](https://github.com/Airo-Space)
@@ -14,13 +14,15 @@
 
 ## What we're building
 
-Airo makes AI access **affordable, predictable, and safe to ship on**. Our platform exposes a drop-in **OpenAI-compatible API** backed by prepaid credits, so you get the models you need without runaway bills or vendor lock-in.
+Airo is a complete **AI platform for builders and developers** — not just an API. We bring the models, the tooling, and the workspace together so you can ship with AI without stitching a dozen services yourself.
 
-What sets it apart:
+The platform includes:
 
-- **Usage windows before the call** — 5-hour, daily, and 7-day limits stop an expensive task *before* it runs, so one request can't drain your balance.
-- **Prompt caching** — repeated context is billed at a steep discount, automatically.
-- **Clean failover** — when an upstream provider hiccups, you see a clear status message and automatic fallback, not a raw 500.
+- **A branded desktop coding app** — a Code OSS-based editor that opens with your models, keys, and account already wired in.
+- **Powerful model access** — a drop-in, OpenAI-compatible API with multiple model tiers and an `auto` router, backed by prepaid credits.
+- **Smart, safe agent defaults** — model presets, IDE setup, team policies, and safer coding-agent behavior out of the box.
+- **Cost control that works** — usage windows (5-hour, daily, 7-day) stop expensive tasks *before* they run, plus automatic prompt caching.
+- **Clean failover** — upstream provider hiccups become clear status messages and automatic fallback, never a raw 500.
 - **A focused workspace** — keys, usage, logs, limits, billing, and referrals in one dashboard.
 
 The same primitives we rely on internally, we open-source.
@@ -44,6 +46,6 @@ Every tool is **MIT-licensed, zero-dependency, and tested**. Copy a single file 
 
 ---
 
-<sub>Building at [airospace.dev](https://airospace.dev) · OpenAI-compatible AI access</sub>
+<sub>Building at [airospace.dev](https://airospace.dev) · The all-in-one AI platform</sub>
 
 </div>
